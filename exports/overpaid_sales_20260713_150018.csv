@@ -1,0 +1,2 @@
+id,customer_id,sale_date,total_amount,subtotal,tax,discount,amount_paid,balance,payment_method,cashier_id,mpesa_code,payment_status,created_at
+1,,"2026-07-11 19:35:02",2000.00,2000.00,0.00,0.00,3454656.00,3452656.00,M-Pesa,5,,Paid,"2026-07-11 19:35:02"
